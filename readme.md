@@ -3,4 +3,4 @@
 **hello
 hi
 
-##this is a new line i used to test the git branch funcion
+##this is a new line i used to test the git branch function
